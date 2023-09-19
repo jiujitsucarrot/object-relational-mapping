@@ -58,9 +58,7 @@ This Challenge is graded based on the following criteria:
 
 ## Deliverables: 10%
 
-* At least one sample SVG file generated using the application must be submitted.
-
-* Your GitHub repository containing your application code.
+* The GitHub repository containing your application code.
 
 ## Walkthrough Video: 37%
 
