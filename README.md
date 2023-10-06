@@ -38,7 +38,7 @@ THEN I am able to successfully create, update, and delete data in my database
 
 ## Submission
 
-* https://youtu.be/H1jpXGbZAi4
+* https://youtu.be/qjr3wtscVQI
 * https://github.com/jiujitsucarrot/object-relational-mapping
 
 
