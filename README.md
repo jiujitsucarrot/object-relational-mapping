@@ -34,7 +34,7 @@ THEN I am able to successfully create, update, and delete data in my database
 
 ## Sources 
 
-* Got sick, will re-submit as soon as I have made more additions the will meet the acceptance criteria. Installed necessary dependencies, began adding to the server.js. Sources used on this challenge were revisiting the course lectures, Google, YouTube, reviewing course notes, reaching out to TA's and instructor through slack or office hours, blog posts online, w3schools, and bouncing ideas off of classmates and colleagues. A lot of work still needs to be done on this challenge. My GitHub is attached below, I will submit my video link with my re-submission once the code is fully operational.
+Sources that were utilized to complete this challenge were as following. Revisiting course lectures, YouTube videos, Google, notes from the week's lecture, tutoring session, office hours, as well as reaching out to fellow junior and senior developers. Course instructor, TA's, classmates/colleagues, and friends for ideas. This challenge was difficult in ways, required a lot of patience to complete. Still gettiing the hang of Insomnia but this helped tremendously.
 
 ## Submission
 
